@@ -1,1 +1,4 @@
 requests
+Markdown2docx
+mdpdf
+tk-tools
